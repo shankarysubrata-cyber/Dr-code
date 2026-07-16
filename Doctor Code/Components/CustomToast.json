@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Toast",
+    "imports": "",
+    "icon": "2131165933",
+    "typeName": "CustomToast",
+    "name": "CustomToast",
+    "description": "This component will give you access to create custom toast from custom view\nyou will find the blocks into custom toast blocks palette",
+    "id": "1346",
+    "class": "CustomToast",
+    "buildClass": "CustomToast",
+    "url": "",
+    "additionalVar": ""
+  }
+]

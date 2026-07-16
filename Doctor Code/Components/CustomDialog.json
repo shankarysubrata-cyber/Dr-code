@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "AlertDialog",
+    "imports": "",
+    "icon": "2131165642",
+    "typeName": "CustomDialog",
+    "name": "CustomDialog",
+    "description": "For Create Custom Dialog From Custom View\nthis component \u0026 it\u0027s blocks created by me",
+    "id": "9467",
+    "class": "CustomDialog",
+    "buildClass": "CustomDialog",
+    "url": "",
+    "additionalVar": ""
+  }
+]

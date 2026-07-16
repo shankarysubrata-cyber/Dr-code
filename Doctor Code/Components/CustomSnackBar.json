@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "com.google.android.material.snackbar.Snackbar",
+    "imports": "com.google.android.material.snackbar.Snackbar",
+    "icon": "2131165449",
+    "typeName": "CustomSnackBar",
+    "name": "CustomSnackBar",
+    "description": "oh yeah ! King of custom views is here\nArabWare Channel has created a new component with its blocks to create custom snack bar",
+    "id": "643735",
+    "class": "CustomSnackBar",
+    "buildClass": "CustomSnackBar",
+    "url": "",
+    "additionalVar": ""
+  }
+]

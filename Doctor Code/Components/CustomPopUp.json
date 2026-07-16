@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "PopupWindow",
+    "imports": "",
+    "icon": "2131165596",
+    "typeName": "CustomPopUp",
+    "name": "CustomPopUp",
+    "description": "use this to create custom pupup message\ncreated with love by Arab Ware Channel",
+    "id": "646",
+    "class": "CustomPopUp",
+    "buildClass": "CustomPopUp",
+    "url": "",
+    "additionalVar": ""
+  }
+]

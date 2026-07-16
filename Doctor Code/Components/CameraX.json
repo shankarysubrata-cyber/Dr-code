@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "CameraX",
+    "imports": "androidx.camera.core.CameraX\nandroidx.camera.core.ImageAnalysis\nandroidx.camera.core.ImageAnalysisConfig\nandroidx.camera.core.ImageCapture\nandroidx.camera.core.ImageCaptureConfig\nandroidx.camera.core.ImageProxy\nandroidx.camera.core.Preview\nandroidx.camera.core.PreviewConfig\nandroidx.lifecycle.LifecycleOwner\nandroid.util.Size\nandroidx.camera.camera2.Camera2Config",
+    "icon": "2131165703",
+    "typeName": "CameraX",
+    "name": "CameraX",
+    "description": "#Created by Shahrom Gulov (@dev_zilla)\n\nCameraX component used for displaying camera in view (demo)",
+    "id": "82",
+    "class": "Component.CameraX",
+    "buildClass": "CameraX",
+    "url": "",
+    "additionalVar": ""
+  }
+]

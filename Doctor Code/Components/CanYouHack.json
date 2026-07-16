@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "CanYouHack",
+    "imports": "arabware.forfree.*",
+    "name": "CanYouHack",
+    "typeName": "CanYouHack",
+    "icon": "2131165467",
+    "description": "SAY NO TO GAME GUADIAN , SAY NO TO GAME HACKING\nقل لا لجيم جارديان و لا لتهكير الالعاب\n\nWITH THIS YOU CAN PROTECT YOUR GAME\n\nمع هذا تستطيع حماية لعبتك",
+    "id": "6794946",
+    "class": "Component.CanYouHack",
+    "buildClass": "CanYouHack",
+    "url": "",
+    "additionalVar": ""
+  }
+]

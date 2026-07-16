@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "com.google.android.material.bottomsheet.BottomSheetDialog",
+    "imports": "",
+    "icon": "2131166211",
+    "typeName": "BottomSheet",
+    "name": "BottomSheet",
+    "description": "Used this to create beautiful bottom sheet dialogs\ncreated with love By #ArabWareChannelOwner",
+    "id": "154",
+    "class": "BottomSheet",
+    "buildClass": "BottomSheet",
+    "url": "",
+    "additionalVar": ""
+  }
+]

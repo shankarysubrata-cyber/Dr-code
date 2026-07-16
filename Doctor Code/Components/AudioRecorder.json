@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "MediaRecorder",
+    "imports": "",
+    "icon": "2131165325",
+    "typeName": "AudioRecorder",
+    "name": "AudioRecorder",
+    "description": "To Record Audio\nAdded By Arab Ware Channel",
+    "id": "46464",
+    "class": "AudioRecorder",
+    "buildClass": "AudioRecorder",
+    "url": "",
+    "additionalVar": ""
+  }
+]

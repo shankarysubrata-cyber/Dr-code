@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent",
+    "imports": "android.os.Bundle\njava.io.InputStream",
+    "icon": "2131166315",
+    "typeName": "CustomErrorMessage",
+    "name": "CustomErrorMessage",
+    "description": "you can with this create custom error message\nplz make you sure you have been created activity with name *debug*\nthanks for using\ncreated by Arab Ware Channel",
+    "id": "99",
+    "class": "CustomErrorMessage",
+    "buildClass": "CustomErrorMessage",
+    "url": "",
+    "additionalVar": ""
+  }
+]

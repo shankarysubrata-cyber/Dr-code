@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "ApkUtils",
+    "imports": "arabware.file.ApkUtils",
+    "name": "ApkUtils",
+    "typeName": "ApkUtils",
+    "icon": "2131165312",
+    "description": "this can get many info about apps from package name or file path",
+    "id": "999888",
+    "class": "Component.ApkUtils",
+    "buildClass": "ApkUtils",
+    "url": "https://github.com/abodinagdat16/FileWareUtils",
+    "additionalVar": ""
+  }
+]

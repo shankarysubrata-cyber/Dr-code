@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent",
+    "imports": "",
+    "icon": "2131165928",
+    "typeName": "Comments Maker",
+    "name": "Comments Maker",
+    "description": "To Create Comments Into Your Activity\u0027s source code\n\n#created by Arab Ware Channel",
+    "id": "44",
+    "class": "Comments Maker",
+    "buildClass": "Comments Maker",
+    "url": "",
+    "additionalVar": ""
+  }
+]

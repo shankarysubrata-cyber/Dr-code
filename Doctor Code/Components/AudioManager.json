@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "AudioManager",
+    "imports": "",
+    "icon": "2131165474",
+    "typeName": "AudioManager",
+    "name": "AudioManager",
+    "description": "To set Volume of Device\u0027s Audio\n\ncreated by Arab Ware Channel",
+    "id": "63",
+    "class": "Component.AudioManager",
+    "buildClass": "AudioManager",
+    "url": "",
+    "additionalVar": ""
+  }
+]

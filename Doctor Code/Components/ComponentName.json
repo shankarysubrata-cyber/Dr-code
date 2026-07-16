@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "ComponentName",
+    "imports": "android.content.ComponentName",
+    "icon": "2131165312",
+    "typeName": "ComponentName",
+    "name": "ComponentName",
+    "description": "it is a part of DevicePolicyManager Component And Blocks",
+    "id": "6467316",
+    "class": "ComponentName",
+    "buildClass": "ComponentName",
+    "url": "",
+    "additionalVar": ""
+  }
+]
