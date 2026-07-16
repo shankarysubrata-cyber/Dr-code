@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "TelephonyManager",
+    "imports": "android.telephony.TelephonyManager",
+    "icon": "2131165452",
+    "typeName": "TelephonyManager",
+    "name": "TelephonyManager",
+    "description": "oh yeah\nnew component by arab ware channel\nnow you can read contact - make a calls - read SMS - and get IMEI and more\ncheck my TelephonyBlocks",
+    "id": "6164376",
+    "class": "TelephonyManager",
+    "buildClass": "TelephonyManager",
+    "url": "",
+    "additionalVar": ""
+  }
+]

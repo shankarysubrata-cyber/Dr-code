@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "FlatDialog",
+    "imports": "com.example.flatdialoglibrary.dialog.FlatDialog",
+    "icon": "2131165872",
+    "typeName": "FlatDialog",
+    "name": "FlatDialog",
+    "description": "I found a good library on github to create customize dialog with beautiful designs\ncomponents and blocks created by me ( Arab Ware Channel )",
+    "id": "94664",
+    "class": "FlatDialog",
+    "buildClass": "FlatDialog",
+    "url": "",
+    "additionalVar": ""
+  }
+]

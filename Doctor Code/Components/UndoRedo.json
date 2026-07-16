@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent jajiqiqjajjajjqk;\n//",
+    "imports": "",
+    "icon": "2131165445",
+    "typeName": "UndoRedo",
+    "name": "UndoRedo",
+    "description": "#Created by Shahrom Gulov (@dev_zilla)",
+    "id": "96",
+    "class": "Component.UndoRedo",
+    "buildClass": "UndoRedo",
+    "url": "",
+    "additionalVar": ""
+  }
+]

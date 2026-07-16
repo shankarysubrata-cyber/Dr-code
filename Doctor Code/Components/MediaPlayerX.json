@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "ArabWareMediaPlayer",
+    "imports": "",
+    "icon": "2131165795",
+    "typeName": "MediaPlayerX",
+    "name": "MediaPlayerX",
+    "description": "hmmmm....\n\neasy .... this is a super easy library that will make amazing media players app....\n\ncheck the blocks ....\n\nMediaPlayerX",
+    "id": "6467319",
+    "class": "Component.MediaPlayerX",
+    "buildClass": "MediaPlayerX",
+    "url": "",
+    "additionalVar": ""
+  }
+]

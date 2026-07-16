@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "NotificationChannel",
+    "imports": "android.app.NotificationChannel",
+    "icon": "2131165802",
+    "typeName": "NotificationChannel",
+    "name": "NotificationChannel",
+    "description": "Android 9+ ?\nI made the first tutorial and blocks and components for supporting notifications in Android 9+\n\nBy ArabWare",
+    "id": "9467316",
+    "class": "Component.NotificationChannel",
+    "buildClass": "NotificationChannel",
+    "url": "",
+    "additionalVar": ""
+  }
+]

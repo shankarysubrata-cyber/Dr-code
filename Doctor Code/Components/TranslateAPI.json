@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "TranslateAPI",
+    "imports": "",
+    "icon": "2131165463",
+    "typeName": "TranslateAPI",
+    "name": "TranslateAPI",
+    "description": "Google translator API\nadded by Arab Ware Channel",
+    "id": "643734",
+    "class": "TranslateAPI",
+    "buildClass": "TranslateAPI",
+    "url": "",
+    "additionalVar": ""
+  }
+]

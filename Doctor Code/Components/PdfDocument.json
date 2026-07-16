@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "PdfDocument",
+    "imports": "android.graphics.pdf.PdfDocument",
+    "icon": "2131165457",
+    "typeName": "PdfDocument",
+    "name": "PdfDocument",
+    "description": "PDF Creator Components\ncheck ArabWare to know how it works\nthere are blocks called PDF Creator",
+    "id": "64678487",
+    "class": "Component.PdfDocument",
+    "buildClass": "PdfDocument",
+    "url": "",
+    "additionalVar": ""
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent",
+    "imports": "",
+    "icon": "2131165688",
+    "typeName": "ShareApp",
+    "name": "ShareApp",
+    "description": "use it for share your app as Apk file",
+    "id": "42",
+    "class": "ShareApp",
+    "buildClass": "ShareApp",
+    "url": "",
+    "additionalVar": ""
+  }
+]

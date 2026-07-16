@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "List\u003cFloat\u003e",
+    "imports": "",
+    "icon": "2131166000",
+    "typeName": "RangeValues",
+    "name": "RangeValues",
+    "description": "To Add Values To Range Seek Bar",
+    "id": "64675194",
+    "class": "Component.RangeValues",
+    "buildClass": "RangeValues",
+    "url": "",
+    "additionalVar": ""
+  }
+]

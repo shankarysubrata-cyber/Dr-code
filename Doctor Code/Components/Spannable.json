@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Spannable",
+    "imports": "",
+    "icon": "2131165953",
+    "typeName": "Spannable",
+    "name": "Spannable",
+    "description": "use this to create highlight text\n\ncreated by Arab Ware Channel",
+    "id": "60",
+    "class": "Spannable",
+    "buildClass": "Spannable",
+    "url": "",
+    "additionalVar": ""
+  }
+]

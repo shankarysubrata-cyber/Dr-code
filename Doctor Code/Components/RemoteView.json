@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "RemoteViews",
+    "imports": "",
+    "icon": "2131165802",
+    "typeName": "RemoteView",
+    "name": "RemoteView",
+    "description": "Remote View ! Custom Notification !\nby Arab ware channel :)",
+    "id": "646434",
+    "class": "RemoteViews",
+    "buildClass": "RemoteViews",
+    "url": "",
+    "additionalVar": ""
+  }
+]

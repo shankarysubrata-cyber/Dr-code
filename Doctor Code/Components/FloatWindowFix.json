@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent ahhhjhahahhao;\n//",
+    "imports": "",
+    "icon": "2131165802",
+    "typeName": "FloatWindowFix",
+    "name": "FloatWindowFix",
+    "description": "It is fix floating window developed by Arab Ware Channel That can show floating window with events\ndon\u0027t forgot to make sure you have added alert permission\njust search \" alert \" in  permission section\n\nThanks",
+    "id": "64",
+    "class": "FloatWindowFix",
+    "buildClass": "FloatWindowFix",
+    "url": "",
+    "additionalVar": "\n"
+  }
+]

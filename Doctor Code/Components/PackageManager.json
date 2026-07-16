@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "android.content.pm.PackageManager",
+    "imports": "",
+    "icon": "2131165675",
+    "typeName": "package",
+    "name": "PackageManager",
+    "description": "For add package manager variable\n\nAlso you can use it in If Family Blocks",
+    "id": "47",
+    "class": "android.content.pm.PackageManager",
+    "buildClass": "android.content.pm.PackageManager",
+    "url": "",
+    "additionalVar": ""
+  }
+]

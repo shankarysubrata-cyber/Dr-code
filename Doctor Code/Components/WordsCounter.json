@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent",
+    "imports": "",
+    "icon": "2131166047",
+    "typeName": "WordsCounter",
+    "name": "WordsCounter",
+    "description": "this components created by ArabWare\nto count words\ncodes from Gerges Shamon",
+    "id": "54273",
+    "class": "WordsCounter",
+    "buildClass": "WordsCounter",
+    "url": "",
+    "additionalVar": ""
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "JSONObject",
+    "imports": "org.json.JSONArray\norg.json.JSONException\norg.json.JSONObject",
+    "icon": "2131165563",
+    "typeName": "JsonParsing",
+    "name": "JsonParsing",
+    "description": "oh yeah\nanother component made by arab ware channel\nnow you can parse a json",
+    "id": "64673464",
+    "class": "JsonParsing",
+    "buildClass": "JsonParsing",
+    "url": "",
+    "additionalVar": ""
+  }
+]

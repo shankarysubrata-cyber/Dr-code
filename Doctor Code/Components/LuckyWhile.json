@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "com.bluehomestudio.luckywheel.LuckyWheel",
+    "imports": "com.bluehomestudio.luckywheel.OnLuckyWheelReachTheTarget",
+    "icon": "2131165443",
+    "typeName": "LuckyWhile",
+    "name": "LuckyWhile",
+    "description": "Want to create game or app with lucky spin ?\nso I have collected \u0026 developed some codes from github that will help you\n\ncreated by Arab Ware Channel",
+    "id": "946",
+    "class": "LuckyWhile",
+    "buildClass": "LuckyWhile",
+    "url": "",
+    "additionalVar": "com.bluehomestudio.luckywheel.LuckyWheel ### \u003d new com.bluehomestudio.luckywheel.LuckyWheel(this);"
+  }
+]

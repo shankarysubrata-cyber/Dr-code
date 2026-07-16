@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "float",
+    "imports": "com.aghajari.emojiview.view.*\ncom.aghajari.emojiview.emoji.iosprovider.*\ncom.aghajari.emojiview.*",
+    "icon": "2131166168",
+    "typeName": "Emojikeyboard",
+    "name": "EmojiKeyboard",
+    "description": "want to change the ugly original emoji in the Edittext ?\nthis component will help you\ncreated by Arab Ware Channel",
+    "id": "646735",
+    "class": "EmojiKeyboard",
+    "buildClass": "EmojiKeyboard",
+    "url": "",
+    "additionalVar": ""
+  }
+]

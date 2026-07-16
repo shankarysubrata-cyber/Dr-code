@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "FilePickerDialog",
+    "imports": "com.github.angads25.filepicker.controller.DialogSelectionListener \ncom.github.angads25.filepicker.model.DialogConfigs\ncom.github.angads25.filepicker.model.DialogProperties\ncom.github.angads25.filepicker.view.FilePickerDialog",
+    "icon": "2131165754",
+    "typeName": "FilePickerDialog",
+    "name": "FilePickerDialog",
+    "description": "created by Arab Ware Channel\nlibrary from github",
+    "id": "64673",
+    "class": "FilePickerDialog",
+    "buildClass": "FilePickerDialog",
+    "url": "",
+    "additionalVar": ""
+  }
+]

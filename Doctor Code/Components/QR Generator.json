@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "String ArabWareChannelAPIText \u003d \"\";\nprivate String ArabWareChannelAPI \u003d \"https://api.qrserver.com/v1/create-qr-code/?data\u003d\";\n//",
+    "imports": "\n",
+    "icon": "2131165925",
+    "typeName": "QR Generator",
+    "name": "QR Generator",
+    "description": "To generate QR Into ImageView",
+    "id": "67",
+    "class": "QR Generator",
+    "buildClass": "QR Generator",
+    "url": "",
+    "additionalVar": ""
+  }
+]

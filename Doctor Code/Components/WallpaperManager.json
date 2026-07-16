@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "WallpaperManager",
+    "imports": "android.widget.ImageView\njava.io.IOException\njava.io.File\njava.io.InputStream\njava.io.OutputStream\njava.io.FileOutputStream",
+    "icon": "2131165871",
+    "typeName": "WallpaperManager",
+    "name": "WallpaperManager",
+    "description": "just you can not set wallpaper without this component",
+    "id": "613764",
+    "class": "WallpaperManager",
+    "buildClass": "WallpaperManager",
+    "url": "",
+    "additionalVar": ""
+  }
+]

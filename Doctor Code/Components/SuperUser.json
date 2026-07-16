@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent",
+    "imports": "",
+    "icon": "2131165467",
+    "typeName": "Intent",
+    "name": "SuperUser",
+    "description": "use this to check if user\u0027s device root status\n\n#created by Arab Ware Channel",
+    "id": "40",
+    "class": "SuperUser",
+    "buildClass": "SuperUser",
+    "url": "",
+    "additionalVar": ""
+  }
+]

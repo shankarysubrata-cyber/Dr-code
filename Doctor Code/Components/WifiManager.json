@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "WifiManager",
+    "imports": "android.net.wifi.WifiManager",
+    "icon": "2131165594",
+    "typeName": "WifiManager",
+    "name": "WifiManager",
+    "description": "you can manager user wifi with this :D",
+    "id": "6467373",
+    "class": "WifiManager",
+    "buildClass": "WifiManager",
+    "url": "",
+    "additionalVar": ""
+  }
+]

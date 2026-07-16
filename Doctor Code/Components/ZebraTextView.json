@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent",
+    "imports": "",
+    "icon": "2131165759",
+    "typeName": "ZebraTextView",
+    "name": "ZebraTextView",
+    "description": "for help you create ID for ZebraTextView Blocks",
+    "id": "48",
+    "class": "ZebraTextView",
+    "buildClass": "ZebraTextView",
+    "url": "",
+    "additionalVar": ""
+  }
+]

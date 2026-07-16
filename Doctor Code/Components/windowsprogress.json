@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent",
+    "imports": "",
+    "icon": "2131165955",
+    "typeName": "windowsprogress",
+    "name": "windowsprogress",
+    "description": "use this components to create Windows Progress\n\n#Created By Arab Ware Channel",
+    "id": "43",
+    "class": "windowsprogress",
+    "buildClass": "windowsprogress",
+    "url": "",
+    "additionalVar": ""
+  }
+]

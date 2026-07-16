@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent",
+    "imports": "",
+    "icon": "2131165776",
+    "typeName": "Intent",
+    "name": "Text Encryptor",
+    "description": "use this to encrypt text by AES method\nit will help you use Encrypt-Decrypt blocks\n\n#created by Arab Ware Channel",
+    "id": "41",
+    "class": "Text Encryptor",
+    "buildClass": "Text Encryptor",
+    "url": "",
+    "additionalVar": ""
+  }
+]

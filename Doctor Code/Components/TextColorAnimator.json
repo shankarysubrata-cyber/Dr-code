@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "AnimatedGradientTextView",
+    "imports": "",
+    "icon": "2131166168",
+    "typeName": "TextColorAnimator",
+    "name": "TextColorAnimator",
+    "description": "Use this to animate create any text you want with any colors with any font with any size with any animation setting you want into linear\n\ncreated by Arab Ware Channel",
+    "id": "194",
+    "class": "TextColorAnimator",
+    "buildClass": "TextColorAnimator",
+    "url": "",
+    "additionalVar": ""
+  }
+]

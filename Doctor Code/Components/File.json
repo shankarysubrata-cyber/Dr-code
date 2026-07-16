@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "java.io.File",
+    "imports": "java.io.File",
+    "icon": "2131165473",
+    "typeName": "File",
+    "name": "File",
+    "description": "manage your files with this components\nmade by Arab Ware Channel",
+    "id": "19676",
+    "class": "File",
+    "buildClass": "File",
+    "url": "",
+    "additionalVar": ""
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "WifiInfo",
+    "imports": "android.net.wifi.WifiInfo",
+    "icon": "2131165762",
+    "typeName": "WifiInfo",
+    "name": "WifiInfo",
+    "description": "you can get user wifi info with this :D",
+    "id": "646731",
+    "class": "WifiInfo",
+    "buildClass": "WifiInfo",
+    "url": "",
+    "additionalVar": ""
+  }
+]

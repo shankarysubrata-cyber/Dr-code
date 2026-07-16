@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent akakhqsinaj;\n//",
+    "imports": "",
+    "icon": "2131165463",
+    "typeName": "Mention",
+    "name": "Mention",
+    "description": "Mention ? mention ???? what is the mean of this component ? \nyou can now highlight any email / mention (@) / phone number / URL / \u0026 more\nyou need to use Mentions Blocks \u0026 library of AutoLinkTextView 3.0.0\n\ncreated by Arab Ware Channel ",
+    "id": "4667",
+    "class": "Mention",
+    "buildClass": "Mention",
+    "url": "",
+    "additionalVar": ""
+  }
+]

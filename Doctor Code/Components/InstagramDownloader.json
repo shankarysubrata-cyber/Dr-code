@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent haiIiqjqjakkakajq;\n//",
+    "imports": "",
+    "icon": "2131165666",
+    "typeName": "InstagramDownloader",
+    "name": "InstagramDownloader",
+    "description": "Use this components to download Instagram videos\nyou need to use Instagram Blocks Too\n\nmade with love by Arab Ware Channel",
+    "id": "97",
+    "class": "InstagramDownloader",
+    "buildClass": "InstagramDownloader",
+    "url": "",
+    "additionalVar": "String rege \u003d \"\";"
+  }
+]

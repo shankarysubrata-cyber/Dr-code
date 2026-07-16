@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent",
+    "imports": "",
+    "icon": "2131165615",
+    "typeName": "MoreBlockMaker",
+    "name": "MoreBlockMaker",
+    "description": "For Create More Block \u0026 For Show Floating Window",
+    "id": "49",
+    "class": "MoreBlockMaker",
+    "buildClass": "MoreBlockMaker",
+    "url": "",
+    "additionalVar": "private final int REQUEST_PERMISSION_PHONE_STATE\u003d1;"
+  }
+]

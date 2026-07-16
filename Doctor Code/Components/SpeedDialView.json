@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "initSpeedDial(_savedInstanceState \u003d\u003d null, _view);",
+    "varName": "SpeedDialView",
+    "imports": "",
+    "icon": "2131165683",
+    "typeName": "SpeedDialView",
+    "name": "SpeedDialView",
+    "description": "About\n\nA Floating Action Button Speed Dial implementation for Android that follows the Material Design specification. (You must activated Library SpeedDial with Local_libs)",
+    "id": "39",
+    "class": "Component.SpeedDialView",
+    "buildClass": "SpeedDialView",
+    "url": "https://github.com/leinardi/FloatingActionButtonSpeedDial",
+    "additionalVar": "private SpeedDialOverlayLayout overlay;"
+  }
+]

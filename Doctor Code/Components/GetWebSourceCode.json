@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "Intent jaooakqnqkziaj;\n//",
+    "imports": "",
+    "icon": "2131165463",
+    "typeName": "GetWebSourceCode",
+    "name": "GetWebSourceCode",
+    "description": "You want to get source code of website in your app\nthis component will help you :)\nyou will the blocks into webview blocks",
+    "id": "345",
+    "class": "GetWebSourceCode",
+    "buildClass": "GetWebSourceCode",
+    "url": "",
+    "additionalVar": ""
+  }
+]

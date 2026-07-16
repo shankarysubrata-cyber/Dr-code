@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "NotificationManagerCompat",
+    "imports": "androidx.core.app.NotificationManagerCompat",
+    "icon": "2131165472",
+    "typeName": "NotificationManager",
+    "name": "NotificationManager",
+    "description": "notification manager\nfor CustomNotific Blocks",
+    "id": "616676",
+    "class": "NotificationManager",
+    "buildClass": "NotificationManager",
+    "url": "",
+    "additionalVar": ""
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "JavaMailAPI",
+    "imports": "com.swrevo.gmailapi.JavaMailAPI\r\ncom.swrevo.gmailapi.MailAccount",
+    "icon": "2131165784",
+    "typeName": "JavaMailAPI",
+    "name": "JavaMailAPI",
+    "description": "Component Gmail API implementation for Direct Sender Email in App",
+    "id": "87",
+    "class": "Component.JavaMailAPI",
+    "buildClass": "JavaMailAPI",
+    "url": "https://myaccount.google.com/lesssecureapps",
+    "additionalVar": ""
+  }
+]

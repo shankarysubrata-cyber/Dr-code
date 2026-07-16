@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "DevicePolicyManager",
+    "imports": "android.app.ActivityManager\nandroid.app.admin.DevicePolicyManager\nandroid.app.admin.DeviceAdminReceiver",
+    "icon": "2131166311",
+    "typeName": "DevicePolicyManager",
+    "name": "DevicePolicyManager",
+    "description": "want to convert your app to a device administrator ?\nthis component with its blocks will help you",
+    "id": "643731",
+    "class": "DevicePolicyManager",
+    "buildClass": "DevicePolicyManager",
+    "url": "https://youtu.be/xiykwnSGKLg",
+    "additionalVar": ""
+  }
+]

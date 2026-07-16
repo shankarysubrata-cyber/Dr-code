@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "UnifiedNativeAd",
+    "imports": "com.google.android.gms.ads.AdListener\ncom.google.android.gms.ads.AdRequest\nandroid.widget.RatingBar\ncom.google.android.gms.ads.AdLoader\ncom.google.android.gms.ads.MobileAds\ncom.google.android.gms.ads.formats.MediaView\ncom.google.android.gms.ads.formats.NativeAdOptions\ncom.google.android.gms.ads.formats.UnifiedNativeAd\ncom.google.android.gms.ads.formats.UnifiedNativeAdView\ncom.google.android.gms.ads.initialization.InitializationStatus\ncom.google.android.gms.ads.initialization.OnInitializationCompleteListener",
+    "icon": "2131165393",
+    "typeName": "UnifiedNativeAd",
+    "name": "UnifiedNativeAd",
+    "description": "Made By Danial SK Channel\n\nuse this to use native ads blocks",
+    "id": "68",
+    "class": "Component.UnifiedNativeAd",
+    "buildClass": "UnifiedNativeAd",
+    "url": "",
+    "additionalVar": ""
+  }
+]

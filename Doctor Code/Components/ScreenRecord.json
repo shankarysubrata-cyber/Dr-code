@@ -1,0 +1,16 @@
+[
+  {
+    "defineAdditionalVar": "",
+    "varName": "android.media.ScreenRecord",
+    "imports": "",
+    "icon": "2131165589",
+    "typeName": "ScreenRecord",
+    "name": "ScreenRecord",
+    "description": "thanks for Omar for the library\ncomponent made by me\nalso some blocks developed by me  \u0026 created by him",
+    "id": "94675",
+    "class": "ScreenRecord",
+    "buildClass": "ScreenRecord",
+    "url": "",
+    "additionalVar": ""
+  }
+]
